@@ -30,4 +30,6 @@ Online (Zoom)
 - Takao Suzuki (Kindai)
 - Wataru Yuasa(RIMS, OCAMI)
 - Junya Yagi (Tsinghua)
-- Michihisa Wakui (Kansai)*
+- Michihisa Wakui (Kansai)
+
+(* = To be confirmed)
