@@ -17,7 +17,7 @@ Online (Zoom)
 # Tentative Speakers
 
 - Sota Asai(Osaka)
-- Takeru Asaka(Tokyo)*
+- Takeru Asaka(Tokyo)
 - Mikhail Bershtein(Landau Institute, Skoltech, IPMU)
 - Peigen Cao (U Hong Kong)
 - Naoki Fujita (Kumamoto)
