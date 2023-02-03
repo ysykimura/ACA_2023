@@ -8,13 +8,15 @@ March 22(Wed)--24(Fri)
 # Venue
 Online (Zoom)
 
+For the registration, please go to the [Zoom registartion page](https://omu-ac-jp.zoom.us/meeting/register/tJAkdu6vrToqE9IRJlsQo2cjeral4XMVccin)
+
 # Organizers
 - Osamu Iyama
 - Yoshiyuki Kimura
 - Tomoki Nakanishi (chief)
 - Hironori Oya
 
-# Tentative Speakers
+# Speakers
 
 - Sota Asai(Osaka)
 - Takeru Asaka(Tokyo)
