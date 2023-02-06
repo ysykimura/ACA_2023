@@ -3,7 +3,7 @@ title: Advances in Cluster Algebras 2023
 ---
 
 # Date
-March 22(Wed)--24(Fri)
+March 22(Wed)--24(Fri), 2023
 
 # Venue
 Online (Zoom)
