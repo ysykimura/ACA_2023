@@ -25,6 +25,13 @@ title: Title and Abstract
 ## Takeyoshi Kogiso (Josai)
 
 ## Yuya Mizuno (Osaka metropolitan)
+### Fans and polytopes in tilting theory
+For a finite dimensional algebra $A$, the 2-term silting complexes of $A$ gives a simplicial complex $\Delta(A)$, called the $g$-simplicial complex,
+a polytope $P(A)$, called the $g$-polytope and a fan $\Sigma(A)$, called the $g$-fan.
+We study several properties of these three objects.
+In particular, we give tilting theoretic interpretations of the $h$-vectors and Dehn-Sommerville equations of $\Delta(A)$.
+Moreover, we discuss convexity of $P(A)$ and its dual polytope. We also discuss a classification of rank 2 $g$-fans.
+This is joint work with Aoki-Higashitani-Iyama-Kase.
 
 ## Kota Murakami(Kyoto)
 
