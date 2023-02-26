@@ -59,12 +59,22 @@ This is a joint work with Anna Barbieri, Martin Möller and Jeonghoon So.
 
 ## Takao Suzuki (Kindai)
 ### Cluster algebra and $q$-Painlevé equation: higher order generalization and degeneration structure
-Recently, a birational representation of an extended affine Weyl groups of type $A_{mn-1}^{(1)}\times A_{m-1}^{(1)}\times A_{m-1}^{(1)}$ was formulated with the aid of cluster mutations by Inoue-Ishibashi-Oya and Masuda-Okubo-Tsuda.
+Recently, a birational representation of an extended affine Weyl group of type $A_{mn-1}^{(1)}\times A_{m-1}^{(1)}\times A_{m-1}^{(1)}$ was formulated with the aid of cluster mutation by Inoue-Ishibashi-Oya and Masuda-Okubo-Tsuda.
 We derive Jimbo-Sakai's $q$-Painlev'\e VI equation and its higher order generalizations from this group.
 We also propose confluences of vertices of quivers which imply the degeneration structure of the $q$-Painlev\'e equations.
 This talk is based on the joint work with Prof. Naoto Okubo.
 
 ## Wataru Yuasa (RIMS, OCAMI)
+### Cluster and Skein algebra of unpunctured surfaces for $\mathfrak{sp}_4$
+We introduce a skein algebra consisting of $\mathfrak{sp}_4$-webs on a 
+marked surface $\Sigma$ without punctures and its 
+$\mathbb{Z}_q$-subalgebra called the ``$\mathbb{Z}_q$-form''. We prove 
+that the boundary-localization of the $\mathbb{Z}_q$-form is included in 
+a quantum cluster algebra that quantizes the function ring of the moduli 
+space of all decorated twisted $Sp_4$-local systems on $\Sigma$. In this 
+talk, we explain the construction of the inclusion and a conjectural 
+characterization of cluster variables using $\mathfrak{sp}_4$-webs. This 
+talk is based on joint work with Tsukasa Ishibashi.
 
 ## Junya Yagi (Tsinghua)
 
