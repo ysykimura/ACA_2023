@@ -33,6 +33,9 @@ a simple closed geodesic.
 ## Mikhail Bershtein (Landau Institute, Skoltech, IPMU)
 
 ## Peigen Cao (U Hong Kong)
+### Cluster-additive functions and tropical points
+Let A be a symmetrizable generalized Cartan matrix of size r. A cluster-additive function associated to A is a map from Z times [1,r] to Z satisfying certain mesh type relations. Such functions were introduced by Ringel, which are closely related with additive functions in representation theory. We prove that cluster-additive functions associated to A are in bijection with the tropical points associated to a skew-symmetrizable matrix defined from A. We give an realization of cluster-additive functions using d-compatibility degree in cluster algebras. As one of the applications, we give a conceptual proof of Ringel's conjecture on cluster-additive functions. This is based on a work in progress joint with Antoine de St. Germain and Prof. Jiang-Hua Lu.
+
 
 ## Naoki Fujita (Kumamoto)
 ### Toric degenerations and Newton-Okounkov bodies of flag varieties arising from cluster structures
