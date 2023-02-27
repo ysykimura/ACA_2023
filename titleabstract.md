@@ -41,6 +41,8 @@ A toric degeneration is a flat degeneration of a projective variety to a toric v
 ## Yasuaki Gyoda (Tokyo)
 
 ## Ivan Chi-Ho Ip (HKUST)
+### Regular Positive Representations
+In the study of positive representations of split real quantum groups, it is natural to consider an associated embedding of to certain quantum cluster algebra related to the moduli space of framed G-local systems. Over the past few years, various new variations of such representations are realized as certain reduction of the original one, and share some common features which we call "regular". We will explain the current status of the classification of these regular positive representations.
 
 ## Takeyoshi Kogiso (Josai)
 ### Two deformations of a Markov equation and related topics
