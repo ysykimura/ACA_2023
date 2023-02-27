@@ -11,7 +11,7 @@ title: Title and Abstract
 ## Sota Asai(Osaka)
 
 ## Takeru Asaka(Tokyo)
-### Some calculations about earthquake maps in the cross ratio
+### Some calculations about earthquake maps in the cross ratio coordinates
 Thurston defined the earthquake map. It is a deformation of
 hyperbolic surfaces and considered as the bijective map on the
 universal cover $\mathbb{H}$. The earthquake theorem says that for any
