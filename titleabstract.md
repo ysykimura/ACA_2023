@@ -14,7 +14,7 @@ This talk is based on joint work with Osamu Iyama in progress.
 Let $A$ be a finite-dimensional algebra over a field $K$.
 Then, in the homotopy category $\mathsf{K}^\mathrm{b}(\mathrm{proj}A)$, any 2-term complex $X$ has the maximum presilting direct summand, which can be called the rigid part of $X$.
 By using decompositions of 2-term complexes, Derksen-Fei introduced the canonical decompositions in the Grothendieck group $K_0(\mathrm{proj} A)$, so we can define the rigid part of each $\theta \in K_0(\mathrm{proj} A)$ from its canonical decomposition.
-However, in this definition, it is open whether the rigid part of $m \theta$ is always $m$ times of the rigid part of $\theta$ for any positive integer $m \in \mathbb{Z}_{\geq 1}$.
+However, in this definition, it is open whether the rigid part of $m \theta$ is always $m$ times of the rigid part of $\theta$ for any positive integer $m \in {\mathbb{Z}}_{\geq 1}$.
 To avoid this problem, we define the rigid part of the elements in the Grothendieck group in a different way; namely, we use the real Grothendieck group $K_0(\mathrm{proj} A)_\mathbb{R}$ and numerical torsion pairs of Baumann-Kamnitzer-Tingley.
 In this talk, I will explain the detail of our definition and some important properties of our rigid parts.
 
