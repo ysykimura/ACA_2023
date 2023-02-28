@@ -93,6 +93,8 @@ characterization of cluster variables using $\mathfrak{sp}_4$-webs. This
 talk is based on joint work with Tsukasa Ishibashi.
 
 ## Junya Yagi (Tsinghua)
+### Cluster transformations, the tetrahedron equation and three-dimensional gauge theories
+Solutions of Zamolodchikov's tetrahedron equation define integrable 3D lattice models in statistical mechanics, just as solutions of the Yang-Baxter equation define integrable 2D lattice models. I will explain how we can construct solutions of the tetrahedron equation using certain quantum cluster transformations. This is based on my joint work with Xiao-yue Sun.
 
 ## Michihisa Wakui (Kansai)
 ### Examples of quiver mutation loops and partition q-series related to affine quivers of type A
