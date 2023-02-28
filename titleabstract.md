@@ -78,7 +78,7 @@ We also propose confluences of vertices of quivers which imply the degeneration 
 This talk is based on the joint work with Prof. Naoto Okubo.
 
 ## Wataru Yuasa (RIMS, OCAMI)
-### Cluster and Skein algebra of unpunctured surfaces for $\mathfrak{sp}_4$
+### Cluster and Skein algebras of unpunctured surfaces for $\mathfrak{sp}_4$
 We introduce a skein algebra consisting of $\mathfrak{sp}_4$-webs on a 
 marked surface $\Sigma$ without punctures and its 
 $\mathbb{Z}_q$-subalgebra called the ``$\mathbb{Z}_q$-form''. We prove 
