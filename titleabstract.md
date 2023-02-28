@@ -67,6 +67,8 @@ Moreover, we discuss convexity of $P(A)$ and its dual polytope. We also discuss 
 This is joint work with Aoki-Higashitani-Iyama-Kase.
 
 ## Kota Murakami (Kyoto)
+### Categorifications of deformed symmetrizable generalized Cartan matrices
+Motivated from studies of the representation theory of quantum loop algebras, Geiss-Leclerc-Schröer introduced the notion of the generalized preprojective algebra associated with a symmetrizable generalized Cartan matrix and its symmetrizer. We define and study a several parameter deformation of a symmetrizable generalized Cartan matrix, which is a numerical aspect of the multi-graded module category of the generalized preprojective algebra. Under a certain condition, which is satisfied in all the symmetric cases or in all the finite and affine cases, our definition coincides with that of the mass-deformed Cartan matrices introduced by Kimura-Pestun in their study of quiver W-algebras. In particular, we will interpret some numerical formula about this matrix in terms of braid group symmetries of our graded module category. This is a joint work with Ryo Fujita (RIMS).
 
 ## Yu Qiu (Tsinghua)
 ### Exchange graph of partial cluster tilting objects and subsurface collapsing
