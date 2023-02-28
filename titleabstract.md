@@ -92,3 +92,7 @@ talk is based on joint work with Tsukasa Ishibashi.
 ## Junya Yagi (Tsinghua)
 
 ## Michihisa Wakui (Kansai)
+### Examples of quiver mutation loops and partition q-series related to affine quivers of type A
+This talk is based on results in the master thesis written by Koki Oya under my advice at Kansai University in this year. I would like to explain his results for him since he graduates in March.
+
+The concept of partition q-series for quiver mutation loops is introduce by Akishi Kato and Yuji Terashima to obtain significant physical quantities by using only combinatorial data. The partition q-series are related to wide area such as Dnaldson-Thomas theory, low-dimensional topology, representation theory and quantum field theory. In this talk we give several examples of quiver mutation loops and partition q-series associated with affine quivers of type A.
