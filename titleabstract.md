@@ -78,8 +78,8 @@ This is a joint work with Anna Barbieri, Martin Möller and Jeonghoon So.
 ## Takao Suzuki (Kindai)
 ### Cluster algebra and $q$-Painlevé equation: higher order generalization and degeneration structure
 Recently, a birational representation of an extended affine Weyl group of type $A_{mn-1}^{(1)}\times A_{m-1}^{(1)}\times A_{m-1}^{(1)}$ was formulated with the aid of cluster mutation by Inoue-Ishibashi-Oya and Masuda-Okubo-Tsuda.
-We derive Jimbo-Sakai's $q$-Painlev'\e VI equation and its higher order generalizations from this group.
-We also propose confluences of vertices of quivers which imply the degeneration structure of the $q$-Painlev\'e equations.
+We derive Jimbo-Sakai's $q$-Painlevé VI equation and its higher order generalizations from this group.
+We also propose confluences of vertices of quivers which imply the degeneration structure of the $q$-Painlevé equations.
 This talk is based on the joint work with Prof. Naoto Okubo.
 
 ## Wataru Yuasa (RIMS, OCAMI)
