@@ -5,7 +5,7 @@
 
 The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
-||3/22(Wednesday)|3/23(Thursday|3/24(Friday)|
+||3/22(Wednesday)|3/23(Thursday)|3/24(Friday)|
 |----|----|----|----|
 |10:00~11:00|Ivan Chi-Ho Ip|Junya Yagi|Naoki Fujita|
 |11:15~12:15|Wataru Yuasa|Yu Qiu|Kota Murakami|
