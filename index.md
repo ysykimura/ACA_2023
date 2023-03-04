@@ -33,3 +33,7 @@ For the registration, please go to the [Zoom registartion page](https://omu-ac-j
 - Wataru Yuasa(RIMS, OCAMI)
 - Junya Yagi (Tsinghua)
 - Michihisa Wakui (Kansai)
+
+# [Title and Abstract](titleabstract.md)
+
+# [Program](program-slides.md)
