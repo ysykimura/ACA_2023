@@ -31,6 +31,9 @@ ratio coordinates. They are earthquake maps along ideal arcs and along
 a simple closed geodesic.
 
 ## Mikhail Bershtein (Landau Institute, Skoltech, IPMU)
+### $q$-Painleve equations, mutations and reductions
+Goncharov and Kenyon constructed cluster integrable systems corresponding to bipartite graphs on a torus. These systems are invariant with respect to cluster mutations which correspond to mutations of a quadrilateral face. It appears that there is another class of transformations that preserves these integrable systems, namely mutation with respect to zig-zags. This leads to a natural extension of the Goncharov-Kenyon class of cluster integrable systems by their Hamiltonian reductions. In particular this can be applied for the construction of the phase space of the $q$-Painleve equation.
+Based on joint works with P. Gavrylenko, A. Marshakov, M. Semenyakin
 
 ## Peigen Cao (U Hong Kong)
 ### Cluster-additive functions and tropical points
