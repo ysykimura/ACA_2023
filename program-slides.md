@@ -47,6 +47,4 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 14:45~15:45 **Takao Suzuki**, _Cluster algebra and $q$-Painlevé equation: higher order generalization and degeneration structure_
 
-16:00~17:00 **Mikhail Bershtein**, _TBA_
-
-
+16:00~17:00 **Mikhail Bershtein**, _$q$-Painleve equations, mutations and reductions_
