@@ -15,7 +15,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 |16:00~17:00|Michihisa Wakui|Sota Asai|Mikhail Bershtein|
 
 ## 3/22(Wednesday)
-10:00~11:00 **Ivan Chi-Ho Ip**, _Regular Positive Representations_
+10:00~11:00 **Ivan Chi-Ho Ip**, [_Regular Positive Representations_](slides/Ivan_Ip.pdf)
 
 11:15~12:15 **Wataru Yuasa**, _Cluster and Skein algebras of unpunctured surfaces for $\mathfrak{sp}_4$_
 
