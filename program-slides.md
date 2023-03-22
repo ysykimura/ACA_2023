@@ -17,7 +17,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 ## 3/22(Wednesday)
 10:00~11:00 **Ivan Chi-Ho Ip**, [_Regular Positive Representations_](slides/Ivan_Ip.pdf)
 
-11:15~12:15 **Wataru Yuasa**, _Cluster and Skein algebras of unpunctured surfaces for $\mathfrak{sp}_4$_
+11:15~12:15 **Wataru Yuasa**, [_Cluster and Skein algebras of unpunctured surfaces for $\mathfrak{sp}_4$_](slides/Wataru_Yuasa.pdf)
 
 13:30~14:30 **Takeru Asaka**, _Some calculations about earthquake maps in the cross ratio coordinates_
 
