@@ -19,7 +19,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 11:15~12:15 **Wataru Yuasa**, [_Cluster and Skein algebras of unpunctured surfaces for $\mathfrak{sp}_4$_](slides/Wataru_Yuasa.pdf)
 
-13:30~14:30 **Takeru Asaka**, _Some calculations about earthquake maps in the cross ratio coordinates_
+13:30~14:30 **Takeru Asaka**, [_Some calculations about earthquake maps in the cross ratio coordinates_](slides/Takeru_Asaka.pdf)
 
 14:45~15:45 **Takeyoshi Kogiso**, _Two deformations of a Markov equation and related topics_
 
