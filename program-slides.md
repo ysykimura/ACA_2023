@@ -21,7 +21,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 13:30~14:30 **Takeru Asaka**, [_Some calculations about earthquake maps in the cross ratio coordinates_](slides/Takeru_Asaka.pdf)
 
-14:45~15:45 **Takeyoshi Kogiso**, _Two deformations of a Markov equation and related topics_
+14:45~15:45 **Takeyoshi Kogiso**, [_Two deformations of a Markov equation and related topics_](slides/Takeyoshi_Kogiso.pdf)
 
 16:00~17:00 **Michihisa Wakui**, _Examples of quiver mutation loops and partition $q$-series related to affine quivers of type $A$_
 
