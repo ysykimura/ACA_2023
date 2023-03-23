@@ -35,7 +35,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 14:45~15:45 **Yasuaki Gyoda**, [_Exchange quiver of root systems, generalized path algebras and cluster algebras_](slides/Yasuaki_Gyoda.pdf)
 
-16:00~17:00 **Sota Asai**, _The rigid parts of the elements of the real Grothendieck groups_
+16:00~17:00 **Sota Asai**, [_The rigid parts of the elements of the real Grothendieck groups_](slides/Sota_Asai.pdf)
 
 ## 3/24(Friday)
 
