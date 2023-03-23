@@ -27,7 +27,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 ## 3/23(Thursday)
 
-10:00~11:00 **Junya Yagi**, _Cluster transformations, the tetrahedron equation and three-dimensional gauge theories_
+10:00~11:00 **Junya Yagi**, [_Cluster transformations, the tetrahedron equation and three-dimensional gauge theories_](slides/Junya_Yagi.pdf)
 
 11:15~12:15 **Yu Qiu**, _Exchange graph of partial cluster tilting objects and subsurface collapsing_
 
