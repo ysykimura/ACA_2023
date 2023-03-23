@@ -23,7 +23,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 14:45~15:45 **Takeyoshi Kogiso**, [_Two deformations of a Markov equation and related topics_](slides/Takeyoshi_Kogiso.pdf)
 
-16:00~17:00 **Michihisa Wakui**, _Examples of quiver mutation loops and partition $q$-series related to affine quivers of type $A$_
+16:00~17:00 **Michihisa Wakui**, [_Examples of quiver mutation loops and partition $q$-series related to affine quivers of type $A$_](slides/Michihisa_Wakui.pdf)
 
 ## 3/23(Thursday)
 
