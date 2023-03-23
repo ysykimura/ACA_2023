@@ -31,9 +31,9 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 11:15~12:15 **Yu Qiu**, _Exchange graph of partial cluster tilting objects and subsurface collapsing_
 
-13:30~14:30 **Peigen Cao**, [_Cluster-additive functions and tropical points_](Peigen_Cao.pdf)
+13:30~14:30 **Peigen Cao**, [_Cluster-additive functions and tropical points_](slides/Peigen_Cao.pdf)
 
-14:45~15:45 **Yasuaki Gyoda**, [_Exchange quiver of root systems, generalized path algebras and cluster algebras_](Yasuaki_Gyoda.pdf)
+14:45~15:45 **Yasuaki Gyoda**, [_Exchange quiver of root systems, generalized path algebras and cluster algebras_](slides/Yasuaki_Gyoda.pdf)
 
 16:00~17:00 **Sota Asai**, _The rigid parts of the elements of the real Grothendieck groups_
 
