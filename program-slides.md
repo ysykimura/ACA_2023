@@ -43,7 +43,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 11:15~12:15 **Kota Murakami**, _Categorifications of deformed symmetrizable generalized Cartan matrices_
 
-13:30~14:30 **Yuya Mizuno**, _Fans and polytopes in tilting theory_
+13:30~14:30 **Yuya Mizuno**, [_Fans and polytopes in tilting theory_](slides/Yuya_Mizuno.pdf)
 
 14:45~15:45 **Takao Suzuki**, _Cluster algebra and $q$-Painlevé equation: higher order generalization and degeneration structure_
 
