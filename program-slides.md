@@ -41,7 +41,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 10:00~11:00 **Naoki Fujita**, _Toric degenerations and Newton-Okounkov bodies of flag varieties arising from cluster structures_
 
-11:15~12:15 **Kota Murakami**, [_Categorifications of deformed symmetrizable generalized Cartan matrices_](slide/Kota_Murakami.pdf)
+11:15~12:15 **Kota Murakami**, [_Categorifications of deformed symmetrizable generalized Cartan matrices_](slides/Kota_Murakami.pdf)
 
 13:30~14:30 **Yuya Mizuno**, [_Fans and polytopes in tilting theory_](slides/Yuya_Mizuno.pdf)
 
