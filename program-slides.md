@@ -45,6 +45,6 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 13:30~14:30 **Yuya Mizuno**, [_Fans and polytopes in tilting theory_](slides/Yuya_Mizuno.pdf)
 
-14:45~15:45 **Takao Suzuki**, _Cluster algebra and $q$-Painlevé equation: higher order generalization and degeneration structure_
+14:45~15:45 **Takao Suzuki**, [_Cluster algebra and $q$-Painlevé equation: higher order generalization and degeneration structure_](slides/Takao_Suzuki.pdf)
 
 16:00~17:00 **Mikhail Bershtein**, _$q$-Painleve equations, mutations and reductions_
