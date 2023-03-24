@@ -39,7 +39,7 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 ## 3/24(Friday)
 
-10:00~11:00 **Naoki Fujita**, _Toric degenerations and Newton-Okounkov bodies of flag varieties arising from cluster structures_
+10:00~11:00 **Naoki Fujita**, [_Toric degenerations and Newton-Okounkov bodies of flag varieties arising from cluster structures_](slides/Naoki_Fujita.pdf)
 
 11:15~12:15 **Kota Murakami**, [_Categorifications of deformed symmetrizable generalized Cartan matrices_](slides/Kota_Murakami.pdf)
 
@@ -47,4 +47,4 @@ The schedule is in Japan Standard Time (=UTC/GMT+9hours)
 
 14:45~15:45 **Takao Suzuki**, [_Cluster algebra and $q$-Painlevé equation: higher order generalization and degeneration structure_](slides/Takao_Suzuki.pdf)
 
-16:00~17:00 **Mikhail Bershtein**, _$q$-Painleve equations, mutations and reductions_
+16:00~17:00 **Mikhail Bershtein**, [_$q$-Painleve equations, mutations and reductions_](slides/Mikhail_Bershtein.pdf)
